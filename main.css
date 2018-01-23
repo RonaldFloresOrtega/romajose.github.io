@@ -22,7 +22,7 @@ h2, li {
     border-bottom: 1px solid #bbb;
 }
 
-header, main, footer, main li {
+header, main, footer {
     margin: 1.25rem auto;
     padding: .5rem;
     max-width: auto/* xxxpx (px = pixel is a unit of measure)  */;
