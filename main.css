@@ -12,12 +12,12 @@ body {
 }
 
 h1 {
-    font-size: 20px/* x.xrem  (rem is a unit of measure) */;
+    font-size: 25px/* x.xrem  (rem is a unit of measure) */;
     color: #FFFFFF/* #xxxxxx */;
 }
 
 h2 {
-    font-size: 10px/* x.xrem */;
+    font-size: 20px/* x.xrem */;
     text-align: center;
     border-bottom: 1px solid #bbb;
 }
