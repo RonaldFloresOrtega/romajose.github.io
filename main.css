@@ -16,7 +16,7 @@ h1 {
     color: #FFFFFF/* #xxxxxx */;
 }
 
-h2, li, nav {
+h2, li {
     font-size: 20px/* x.xrem */;
     text-align: center;
     border-bottom: 1px solid #bbb;
@@ -28,7 +28,7 @@ header, main, footer, nav {
     max-width: auto/* xxxpx (px = pixel is a unit of measure)  */;
 }
 
-header, footer, footer a {
+header, footer, footer a, nav, nav a {
     text-align: center;
     background-color: #C0C0C0/* */;
     color: whitesmoke;
