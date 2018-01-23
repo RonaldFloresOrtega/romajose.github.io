@@ -16,13 +16,13 @@ h1 {
     color: #FFFFFF/* #xxxxxx */;
 }
 
-h2 {
+h2, li {
     font-size: 20px/* x.xrem */;
     text-align: center;
     border-bottom: 1px solid #bbb;
 }
 
-header, main, footer {
+header, main, footer, {
     margin: 1.25rem auto;
     padding: .5rem;
     max-width: auto/* xxxpx (px = pixel is a unit of measure)  */;
