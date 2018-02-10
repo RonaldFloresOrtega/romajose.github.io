@@ -16,30 +16,26 @@ header h1 {}
 header img {}
 header .subheading {}
 
-nav {}
+nav {
+    position: absolute;
+  left: 0px;
+  width: 200px;
+}
 nav button {}
 nav ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-    background-color: #333;
+    
 }
 nav ul li {
-    float: left;
+    
 }
 nav ul li a {
-    display: block;
-    color: white;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
+    
 }
 nav ul li.active a {
-    background-color: #4CAF50;
+   
 }
 nav ul li a:hover {
-    background-color: #111;
+    
 }
 
 main {}
@@ -54,7 +50,14 @@ article p.town-article img {  /* This structure refers to img elements that are 
   margin: ???;
 }
 
-footer {}
+footer {
+    position: fixed;
+  bottom: 0;
+  left: 0;
+  height: 70px;
+  background-color: white;
+  width: 100%;
+}
 footer aside {}
 footer>p {} /* This structure refers to p elements that are direct children of the footer element */
 
