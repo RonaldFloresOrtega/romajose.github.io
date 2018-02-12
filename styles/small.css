@@ -16,11 +16,7 @@ header h1 { }
 header img {}
 header .subheading {}
 
-nav {
-    position: absolute;
-  left: 0px;
-  width: 200px;
-}
+nav {}
 nav button {}
 nav ul {
     
