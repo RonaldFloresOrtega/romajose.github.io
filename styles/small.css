@@ -12,7 +12,10 @@ header, nav, main, footer { /* the comma means apply the following CSS declarati
 }
 
 header {}
-header h1 { }
+header h1 { 
+    font-size: 25px/* x.xrem  (rem is a unit of measure) */;
+    color: #FFFFFF/* #xxxxxx */;
+}
 header img {}
 header .subheading {}
 
