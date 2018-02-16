@@ -12,9 +12,7 @@ header, nav, main, footer { /* the comma means apply the following CSS declarati
 }
 
 header {}
-header h1 {
-    color: #191970;
-				text-align: center;}
+header h1 {}
 header img {}
 header .subheading {}
 
