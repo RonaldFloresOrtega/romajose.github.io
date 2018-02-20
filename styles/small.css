@@ -43,12 +43,16 @@ nav ul li a:hover {
     background-color: #111;
 }
 
-main {}
+main {
+   
+}
 main h2 {}
 main figure { margin: 0 0 .2rem 2%; width:96%; }
 main figure img { width: 100%; }
 
-section {}
+section {
+    
+}
 
 article p.town-article img {  /* This structure refers to img elements that are the posterity of paragraph elements within artcle elements */
   width: ???; /* fill the page in the small/phone view */
@@ -56,11 +60,11 @@ article p.town-article img {  /* This structure refers to img elements that are 
 }
 
 footer {
-    position: fixed;
+  position: fixed;
   bottom: 0;
   left: 0;
   height: 70px;
-  background-color: white;
+  background-color: deepskyblue;
   width: 100%;
 }
 footer aside {}
